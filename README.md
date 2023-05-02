@@ -19,7 +19,6 @@
   - HTML
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -38,15 +37,11 @@
 
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Hello-Microverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -69,23 +64,17 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/Blessman-Newton/Hello_Microverse-.git)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
+
 
 ### Prerequisites
 
 In order to run this project you need:
+ - Vs code
+ - git
 
 
 ### Setup
@@ -95,19 +84,21 @@ If you want to clone this repository, clone into your desired folder and enter "
 
 ### Install
 
-Install this project with:
-The project is installed once you clone it on your local machine
+linters
+Html
 
 ### Usage
 
 To run the project, execute the following command:
+- Live Server
 
 Open index.html in your browser
 ### Run tests
 
 To run tests, run the following command:
 
-npx stylelint "**/*.{css,scss}
+- npx stylelint "**/*.{css,scss}
+- hint.x
 
 ### Deployment
 
@@ -116,7 +107,7 @@ You can deploy this project using by transfering files in your local repository 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="**Blessman-Newton">maserekafelex</a>
+## 👥 Authors <a name="**Blessman-Newton">Blessman Newton</a>
 
 > Mention all of the collaborators of this project.
 
