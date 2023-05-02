@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+### Project Name
 
-Hello Microverse
+Hello_Microverse
 
 
 ## Built With
@@ -25,13 +25,13 @@ Hello Microverse
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a 🤝 if you like this project!
 
 ## Acknowledgments
 
