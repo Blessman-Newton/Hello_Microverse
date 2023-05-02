@@ -109,8 +109,6 @@ You can deploy this project using by transfering files in your local repository 
 
 ## 👥 Authors <a name="**Blessman-Newton">Blessman Newton</a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [Blessman-Newton](https://github.com/Blessman-Newton)
@@ -122,8 +120,6 @@ You can deploy this project using by transfering files in your local repository 
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -143,15 +139,11 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, kindly contact me on my github:Auther(#authors)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse for the best technical training they are taking me through.
 I would like also to thank my partiners in learning and coding for better success in this program.
@@ -162,7 +154,6 @@ I would also like to thank the code reviewers for having guided me to produce re
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
